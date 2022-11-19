@@ -62,4 +62,4 @@ Our data is highly imbalenced which is a very common issue in classification. ac
 **If you did not delete your compute cluster in the code, please complete this section. Otherwise, delete this section.**
 **Image of cluster marked for deletion**
 
-image.png
+clustercc.png
